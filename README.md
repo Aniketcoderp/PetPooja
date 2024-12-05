@@ -5,6 +5,8 @@ This project demonstrates the implementation of three modular components in Reac
 
 ---
 
+
+Diploy Link-  https://sweet-haupia-a8e74f.netlify.app/
 ## Features
 
 ### 1. Custom Table
