@@ -1,0 +1,76 @@
+{
+    "columns": [
+      {
+        "title": "Name",
+        "key": "name",
+        "sortable": true,
+        "filterable": true
+      },
+      {
+        "title": "Age",
+        "key": "age",
+        "sortable": true,
+        "filterable": false
+      },
+      {
+        "title": "Email",
+        "key": "email",
+        "sortable": false,
+        "filterable": true
+      }
+    ],
+    "data": [
+        { "name": "Alice", "age": 25, "email": "alice@example.com" },
+        { "name": "Bob", "age": 30, "email": "bob@example.com" },
+        { "name": "Charlie", "age": 35, "email": "charlie@example.com" },
+        { "name": "David", "age": 22, "email": "david@example.com" },
+        { "name": "Emma", "age": 28, "email": "emma@example.com" },
+        { "name": "Frank", "age": 32, "email": "frank@example.com" },
+        { "name": "Grace", "age": 27, "email": "grace@example.com" },
+        { "name": "Hannah", "age": 26, "email": "hannah@example.com" },
+        { "name": "Ian", "age": 24, "email": "ian@example.com" },
+        { "name": "Jack", "age": 29, "email": "jack@example.com" },
+        { "name": "Kara", "age": 31, "email": "kara@example.com" },
+        { "name": "Liam", "age": 23, "email": "liam@example.com" },
+        { "name": "Mia", "age": 34, "email": "mia@example.com" },
+        { "name": "Nina", "age": 21, "email": "nina@example.com" },
+        { "name": "Oliver", "age": 28, "email": "oliver@example.com" },
+        { "name": "Paula", "age": 36, "email": "paula@example.com" },
+        { "name": "Quinn", "age": 33, "email": "quinn@example.com" },
+        { "name": "Ryan", "age": 29, "email": "ryan@example.com" },
+        { "name": "Sophia", "age": 30, "email": "sophia@example.com" },
+        { "name": "Tom", "age": 22, "email": "tom@example.com" },
+        { "name": "Uma", "age": 25, "email": "uma@example.com" },
+        { "name": "Victor", "age": 27, "email": "victor@example.com" },
+        { "name": "Wendy", "age": 32, "email": "wendy@example.com" },
+        { "name": "Xander", "age": 31, "email": "xander@example.com" },
+        { "name": "Yara", "age": 24, "email": "yara@example.com" },
+        { "name": "Zara", "age": 26, "email": "zara@example.com" },
+        { "name": "Alex", "age": 23, "email": "alex@example.com" },
+        { "name": "Bella", "age": 28, "email": "bella@example.com" },
+        { "name": "Chris", "age": 29, "email": "chris@example.com" },
+        { "name": "Diana", "age": 27, "email": "diana@example.com" },
+        { "name": "Ethan", "age": 33, "email": "ethan@example.com" },
+        { "name": "Fiona", "age": 34, "email": "fiona@example.com" },
+        { "name": "George", "age": 21, "email": "george@example.com" },
+        { "name": "Hazel", "age": 35, "email": "hazel@example.com" },
+        { "name": "Isaac", "age": 32, "email": "isaac@example.com" },
+        { "name": "Julia", "age": 31, "email": "julia@example.com" },
+        { "name": "Kyle", "age": 22, "email": "kyle@example.com" },
+        { "name": "Laura", "age": 26, "email": "laura@example.com" },
+        { "name": "Mark", "age": 24, "email": "mark@example.com" },
+        { "name": "Nate", "age": 28, "email": "nate@example.com" },
+        { "name": "Olivia", "age": 29, "email": "olivia@example.com" },
+        { "name": "Paul", "age": 30, "email": "paul@example.com" },
+        { "name": "Rita", "age": 25, "email": "rita@example.com" },
+        { "name": "Sam", "age": 27, "email": "sam@example.com" },
+        { "name": "Tina", "age": 31, "email": "tina@example.com" },
+        { "name": "Umar", "age": 34, "email": "umar@example.com" },
+        { "name": "Violet", "age": 23, "email": "violet@example.com" },
+        { "name": "Will", "age": 30, "email": "will@example.com" },
+        { "name": "Xena", "age": 33, "email": "xena@example.com" },
+        { "name": "Yvonne", "age": 21, "email": "yvonne@example.com" },
+        { "name": "Zeke", "age": 36, "email": "zeke@example.com" }
+      ]
+  }
+  
